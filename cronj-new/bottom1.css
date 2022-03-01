@@ -1,0 +1,54 @@
+#bottom1{
+    background-image: url(./bottom/Group\ 12623@2x.png);
+    object-fit: fill;
+    position: relative;
+    background-repeat: no-repeat;
+    height: 227px ;
+    width: 1335px;
+    background-size: 1335px 227px;
+    right: 2px;
+    padding-top: 0px ;
+    
+}
+
+#bottom1 h1{
+
+    margin: 0%;
+    padding-top: 50px;
+    font-size: 150%;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#bottom1 h2{
+    margin: 0%;
+    font-size: 18px;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#bottom1 button{
+
+    margin-top:16px ; 
+    margin-left : 585px;
+    background-color: white;
+    border: none;
+    padding : 19px 27px ;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 12px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+#bottom1 button img{
+    position: relative;
+    top: 2px;
+    left: 5px;
+    height: 17px;
+    
+
+}
